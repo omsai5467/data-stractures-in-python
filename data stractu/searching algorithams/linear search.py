@@ -1,5 +1,4 @@
 #linear search in python 
-#Sequential Search: In this, the list or array is traversed sequentially and every element is checked. For example: Linear Search.
 
 
 
